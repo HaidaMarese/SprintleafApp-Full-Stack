@@ -1,7 +1,8 @@
 SprintLeaf – Course Management App-Full-Stack MERN Application
 
 SprintLeaf is a full-stack productivity app built with the **MERN stack**.  
-It lets users manage projects, tasks, courses, notes, and learning resources — all in one place.  
+It lets users manage projects, tasks, courses, notes, and learning resources all in one place.  
+
 Built for solo developers and small teams.
 
 ---
